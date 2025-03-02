@@ -22,3 +22,4 @@ app.listen(port, () => {
 
 //Comentario para simular la implementacion del endpoint raiz 
 //comentario para simular agregr ruta
+//comentario para simular contenido de get
