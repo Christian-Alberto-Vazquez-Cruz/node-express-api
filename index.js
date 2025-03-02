@@ -19,3 +19,5 @@ app.post('/mensaje', (req, res) => {
 app.listen(port, () => {
     console.log(`Servidor escuchando en http://localhost:${port}`);
 });
+
+//Comentario para simular la implementacion del endpoint raiz 
