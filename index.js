@@ -1,4 +1,4 @@
-const express = requiere('express');
+const express = require('express');
 const app = express();
 const port = 3000;
 
@@ -21,3 +21,6 @@ app.listen(port, () => {
 });
 
 //Comentario para simular la implementacion del endpoint raiz 
+//comentario para simular agregr ruta
+//comentario para simular contenido de get
+//comentario para simular agregado de mensaje 
